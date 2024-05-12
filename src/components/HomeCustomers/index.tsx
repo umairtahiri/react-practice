@@ -1,0 +1,1 @@
+export {HomeCustomers as default} from "./HomeCustomers"
